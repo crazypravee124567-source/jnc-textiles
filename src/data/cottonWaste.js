@@ -1,0 +1,8 @@
+export const wasteMaterials = [
+  { name: "Comber Noil", code: "CN-101", desc: "High-grade combing extraction with uniform short staple fibers and low trash ratio. Ideal for open-end spinning and surgical cotton.", staple: "< 20mm", trash: "≤ 0.8% - 1.2%", bale: "165 kg Hydraulic Bale" },
+  { name: "Card Fly & Droppings", code: "CF-204", desc: "Under-carding mechanical extraction with fibrous consistency. Suited for blended coarse yarns, non-woven mattress batting, and acoustic felt.", staple: "Web-like Strands", trash: "Pre-screened", bale: "160 kg Strapped Bale" },
+  { name: "Flat Strips", code: "FS-310", desc: "Revolving flat carding strips presenting uniform fiber length. Prized for rotor spinning and coarse yarn counts (6s to 16s OE).", staple: "22 - 24 mm Rep", trash: "Low Nep Index", bale: "170 kg High-Density Bale" },
+  { name: "Hard Yarn Waste", code: "HY-402", desc: "Ring-frame and auto-coner cuts of pure cotton thread. Feedstock for garnetted recycled fiber, floor mops, and currency paper.", staple: "Twisted Thread", trash: "Zero Synthetic", bale: "Compressed PP Bale" },
+  { name: "Licker-in Droppings", code: "LK-550", desc: "Heavy particle drop extraction segregated through centrifugal air filtering. Raw fiber filler for automotive composite boards.", staple: "Heavy Sift", trash: "< 8.5% Moisture", bale: "Heavy Bagged Cargo" },
+  { name: "Custom Spinning Lot", code: "CS-900", desc: "Custom segregated by-product blends or precise trash-percentage specifications engineered to order for bulk commercial contracts.", staple: "Custom Spec", trash: "Calibrated", bale: "Bespoke Pallet/Bale" },
+];
